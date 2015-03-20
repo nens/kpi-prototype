@@ -1,0 +1,311 @@
+[
+    {
+        "kpis": [
+            {
+                "name": "Tevredenheid",
+                "trend": [
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 31
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 32
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 36
+                    }
+                ],
+                "pis": [
+                    {
+                        "name": "Meldingen",
+                        "description": "Aantal meldingen van burgers",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Schadeclaims",
+                        "description": "Aantal schadeclaims van burgers",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Toestand",
+                "trend": [
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 31
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 32
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 36
+                    }
+                ],
+                "pis": [
+                    {
+                        "name": "Vrijverval leidingen",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]                        
+                    },
+                    {
+                        "name": "Storingen",
+						"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]						
+                    },
+                    {
+                        "name": "Overige Objecten",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verstopping door zetting",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Boomwortels",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verstopt debiet t.o.v. theorie",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Omgeving",
+                "trend": [
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 31
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 32
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 36
+                    }
+                ],
+                "pis": [
+                    {
+                        "name": "Wateroverlast",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vuilemissie",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gebruik",
+                "trend": [
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 31
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 32
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 36
+                    }
+                ],
+                "pis": [
+                    {
+                        "name": "Volume t.o.v. theorie",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vuilverstoppingen",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]                        
+                    },
+                    {
+                        "name": "Foutaansluitingen",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Planning",
+                "trend": [
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 31
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 32
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 36
+                    }
+                ],
+                "pis": [
+                    {
+                        "name": "Operationele parameters",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vervaningsfrequentie",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet numquam sit quae cumque maiores, tempora magni dolorum eius? Velit nobis sed nesciunt suscipit dolores et eveniet ipsum quae provident repellat.",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 31
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 34
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

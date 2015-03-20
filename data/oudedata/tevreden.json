@@ -1,0 +1,1707 @@
+[
+    {
+        "kpi": "Tevredenheid",
+        "trend": [
+            {
+                "date": "0000-00-00 00:00:00",
+                "value": 31
+            },
+            {
+                "date": "0000-00-00 00:00:00",
+                "value": 32
+            },
+            {
+                "date": "0000-00-00 00:00:00",
+                "value": 36
+            }
+        ],
+        "pis": [
+            {
+                "name": "Meldingen",
+                "description": "Aantal meldingen van burgers",
+                "trend": [
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 31
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 34
+                    }
+                ],
+                "wijken": [
+                    {
+                        "name": "De Werven",
+                        "trend": [
+                            {
+                                "date": "2015-01-01 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "2015-01-02 00:00:00",
+                                "value": 5
+                            },
+                            {
+                                "date": "2015-01-03 00:00:00",
+                                "value": 6
+                            },
+                            {
+                                "date": "2015-01-04 00:00:00",
+                                "value": 7
+                            },
+                            {
+                                "date": "2015-01-05 00:00:00",
+                                "value": 5
+                            },
+                            {
+                                "date": "2015-01-06 00:00:00",
+                                "value": 1
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Hoven",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Meenten",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Grienden",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Marken",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Gouwen",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Wierden",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Velden",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Overgooi",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Steiger",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stichtsekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide Huizen Almere-Haven",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Centrum Almere-Haven",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Centrum Almere-Stad",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Filmwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Danswijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Parkwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verzetswijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Waterwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tussen de Vaarten Noord",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tussen de Vaarten Zuid",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Staatsliedenwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kruidenwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stedenwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Muziekwijk Noord",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Muziekwijk Zuid",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Literatuurwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Noorderplassen",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Randstad",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Markerkant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hollandsekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gooisekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Veluwsekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sallandsekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Stad",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Centrum Almere-Buiten",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oostvaardersbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Seizoenenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Molenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bouwmeesterbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Landgoederenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Faunabuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bloemenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Regenboogbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Indischebuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eilandenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stripheldenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sieradenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poldervlak",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Vaart",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Buitenvaart",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Buiten",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Europakwartier",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Columbuskwartier",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Homeruskwartier",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Olympiakwartier",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hogekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Middenkant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lagekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Poort",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vogelhorst",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Hout",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Pampus",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Schadeclaims",
+                "description": "Aantal schadeclaims van burgers",
+                "trend": [
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 31
+                    },
+                    {
+                        "date": "0000-00-00 00:00:00",
+                        "value": 34
+                    }
+                ],
+                "wijken": [
+                    {
+                        "name": "De Werven",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Hoven",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Meenten",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Grienden",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Marken",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Gouwen",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Wierden",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Velden",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Overgooi",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Steiger",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stichtsekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide Huizen Almere-Haven",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Centrum Almere-Haven",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Centrum Almere-Stad",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Filmwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Danswijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Parkwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verzetswijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Waterwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tussen de Vaarten Noord",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tussen de Vaarten Zuid",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Staatsliedenwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kruidenwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stedenwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Muziekwijk Noord",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Muziekwijk Zuid",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Literatuurwijk",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Noorderplassen",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Randstad",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Markerkant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hollandsekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gooisekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Veluwsekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sallandsekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Stad",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Centrum Almere-Buiten",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Oostvaardersbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Seizoenenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Molenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bouwmeesterbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Landgoederenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Faunabuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bloemenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Regenboogbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Indischebuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eilandenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stripheldenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sieradenbuurt",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Poldervlak",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "De Vaart",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Buitenvaart",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Buiten",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Europakwartier",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Columbuskwartier",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Homeruskwartier",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Olympiakwartier",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hogekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Middenkant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lagekant",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Poort",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vogelhorst",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Hout",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Verspreide huizen Almere-Pampus",
+                        "trend": [
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 3
+                            },
+                            {
+                                "date": "0000-00-00 00:00:00",
+                                "value": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

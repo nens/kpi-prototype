@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+
+		<title>KPI App | Prototype 02</title>
+	    <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+	    <link href="static/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+	    <link href="static/bower_components/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+		<link href="static/bower_components/sweetalert/lib/sweet-alert.css" rel="stylesheet">
+		<script src="static/bower_components/jquery/dist/jquery.min.js"></script>
+
+	    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	    <!--[if lt IE 9]>
+	      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	    <![endif]-->
+
+	    <script>
+			if (!Object.prototype.watch) {
+				Object.defineProperty(Object.prototype, "watch", {
+					  enumerable: false
+					, configurable: true
+					, writable: false
+					, value: function (prop, handler) {
+						var
+						  oldval = this[prop]
+						, newval = oldval
+						, getter = function () {
+							return newval;
+						}
+						, setter = function (val) {
+							oldval = newval;
+							return newval = handler.call(this, prop, oldval, val);
+						}
+						;
+						
+						if (delete this[prop]) { // can't watch constants
+							Object.defineProperty(this, prop, {
+								  get: getter
+								, set: setter
+								, enumerable: true
+								, configurable: true
+							});
+						}
+					}
+				});
+			}
+			 
+			// object.unwatch
+			if (!Object.prototype.unwatch) {
+				Object.defineProperty(Object.prototype, "unwatch", {
+					  enumerable: false
+					, configurable: true
+					, writable: false
+					, value: function (prop) {
+						var val = this[prop];
+						delete this[prop]; // remove accessors
+						this[prop] = val;
+					}
+				});
+			}
+
+
+
+
+			if(typeof(console) === 'undefined') {
+			    var console = {}
+			    console.log = console.error = console.info = console.debug = console.warn = console.trace = console.dir = console.dirxml = console.group = console.groupEnd = console.time = console.timeEnd = console.assert = console.profile = function() {};
+			}
+
+			var asciiArray = [
+			  "Interesse?                                                  ",
+			  "http://www.nelen-schuurmans.nl/NL/bedrijfsprofiel/carriere/ "
+			];
+			var hiring = asciiArray.join('\n');
+			console.log(hiring);
+
+	    </script>		
+	</head>
+	<body id="lizard-app">
+		
+		<script src="static/bower_components/jquery/dist/jquery.min.js"></script>
+	    <script src="static/bower_components/modernizr/modernizr.js"></script>
+	    
+	    <script src="static/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+	    <script src="static/bower_components/sweetalert/lib/sweet-alert.min.js"></script>
+	    <script src="static/bundle.js"></script>
+	</body>
+</html>

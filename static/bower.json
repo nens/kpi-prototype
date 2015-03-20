@@ -1,0 +1,23 @@
+{
+  "name": "kpi-prototype-static",
+  "version": "0.0.1",
+  "description": "Vendor directory",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.2",
+    "fontawesome": "~4.1.0",
+    "bootstrap": "~3.1.1",
+    "sweetalert": "~0.3.1",
+    "isotope": "",
+    "papaparse": "~4.1.0",
+    "dc.js": "2.0.0-beta.5"
+  }
+}

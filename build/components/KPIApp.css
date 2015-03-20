@@ -1,0 +1,384 @@
+@font-face {
+  font-family: 'Geogroteque-Light';
+  src: url("../fonts/Geogroteque/Geogtq-Lg.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url("../fonts/Montserrat/montserrat-regular-webfont.ttf") format("truetype");
+}
+
+.modal-container {
+  position: relative;
+}
+.modal-container .modal, .modal-container .modal-backdrop {
+  position: absolute;
+}
+
+.limites-boundary {
+	fill: #ddd;
+	stroke-width: 1px;
+	stroke: #000;
+}
+
+body {
+	/*font-family: 'Montserrat-Regular', sans-serif;*/
+	font-family: 'Geogroteque-Light', sans-serif;
+}
+
+a.home{
+	text-decoration: none;
+	color: #000;
+}
+.period-selection {
+	background-color: #434950;
+	font-family: sans-serif;
+	font-size: .9em;
+	color: #fff;
+	width: 350px;
+	height: 36px;
+	top: 0;	
+	right: -150px;	
+}
+.period-selection p {
+	padding: 7px 0 4px 0;
+}
+.period-selection.period {
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+.rightarrowdiv:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 150px;
+	left: 100%;
+	width: 0;
+	height: 0;
+	border-color: transparent transparent transparent black;
+	border-style: solid;
+	border-width: 10px;
+}
+
+ul#popupbuttons {
+	padding: 0;
+	margin: 0;
+	float: right;	
+}
+ul#popupbuttons li {
+	list-style: none;
+	display: inline-block;
+	border-left: 1px solid #3b4046;
+	line-height: 33px;
+	padding: 0 5px;
+}
+
+p {
+	font-size: 1.2em;
+}
+
+div#brandcarouselshadow {
+	margin: 10px 0 10px -40px;
+}
+div#globaloverviewbrandscontainer {
+	font-family: 'Montserrat-Regular', sans-serif;
+	width: 100%;
+	overflow: auto;
+	-webkit-transition: all 600ms ease-in-out;
+	-moz-transition: all 600ms ease-in-out;
+	-o-transition: all 600ms ease-in-out;
+	-ms-transition: all 600ms ease-in-out;
+	transition: all 600ms ease-in-out;
+}
+
+ul#brandcarousel li {
+	list-style: none;
+	display: block;
+	float: left;
+	text-align: center;
+	width: 220px;
+	-webkit-transition: all 600ms ease-in-out;
+	-moz-transition: all 600ms ease-in-out;
+	-o-transition: all 600ms ease-in-out;
+	-ms-transition: all 600ms ease-in-out;
+	transition: all 600ms ease-in-out;
+	border-bottom: 3px solid transparent;
+	color: #646e78;
+}
+ul#brandcarousel li a {
+	display: block;
+	outline: none;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 220px;
+	height: 50px;
+	line-height: 46px;
+	border-left: 1px solid #f1f2f2;
+	border-right: 1px solid #dbdadb;
+	color: #646e78;
+	text-decoration: none;
+	background: #fbfbfb;
+	background: -moz-linear-gradient(top, #fbfbfb 0%, #e0e2e4 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fbfbfb), color-stop(100%, #e0e2e4));
+	background: -webkit-linear-gradient(top, #fbfbfb 0%, #e0e2e4 100%);
+	background: -o-linear-gradient(top, #fbfbfb 0%, #e0e2e4 100%);
+	background: -ms-linear-gradient(top, #fbfbfb 0%, #e0e2e4 100%);
+	background: linear-gradient(top, #fbfbfb 0%, #e0e2e4 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fbfbfb', endColorstr='#e0e2e4',GradientType=0 );
+}	
+ul#brandcarousel li a.active {
+	border-bottom: 2px solid #434950;
+}
+
+
+img.kpi-icon {
+	width: 15% !important;
+}
+
+
+
+
+.figure-item {
+width: 105px;
+float: left;
+padding: 6% 3% 0 0;
+text-align: center;
+}
+
+.figure-item .figure {
+font-size: 105%;
+height: 185px;
+line-height: 185px;
+}
+
+.figure-item .figure {
+height: 160px;
+line-height: 160px;
+}
+.figure-item .figure {
+font-size: 120%;
+height: 85px;
+line-height: 85px;
+}
+.figure-item .figure {
+border-radius: 100%;
+margin-bottom: 0.2em;
+color: #fff;
+background-color: #005ea5;
+}
+.figure-item.tevredenheid .figure {
+	background-color: #425B68;
+}
+.figure-item.toestand .figure {
+	background-color: #E36056;
+}
+.figure-item.omgeving .figure {
+	background-color: #4DA0AD;
+}
+.figure-item.gebruik .figure {
+	background-color: #E46157;
+}
+.figure-item.planning .figure {
+	background-color: #3F5968;
+}
+.figure-item .figure-title {
+font-size: 95%;
+}
+
+
+
+
+
+/* testing out d3 tooltip */
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 8px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+
+.performance-indicator {
+}
+
+
+
+
+.dc-table-head, .dc-table-label {
+	font-weight: bold !important;
+	font-style: 1.2em !important;
+	text-decoration: underline !important;
+}
+
+
+
+
+
+
+
+
+.cell {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  padding: 5px;
+  text-align: center;
+}
+.rc-Calendar-header {
+  text-align: center;
+  font-weight: bolder;
+}
+.rc-Month {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 0 10px 10px;
+}
+.rc-Month-header {
+  text-align: center;
+  font-weight: bolder;
+}
+.rc-Month-weekdays {
+  margin-left: 32px;
+}
+.rc-Month-weekdays-weekday {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bolder;
+}
+.rc-Month--current .rc-Month-header {
+  color: #000;
+}
+.rc-Week {
+  height: 32px;
+}
+.rc-Week-number {
+  color: #ccc;
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  padding: 5px;
+  text-align: center;
+}
+.rc-Week-days {
+  border-left: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+  display: inline-block;
+}
+.rc-Week:last-child .rc-Week-days {
+  border-bottom: 1px solid #ccc;
+}
+.rc-Day {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  padding: 5px;
+  text-align: center;
+  border-right: 1px solid #ccc;
+  cursor: pointer;
+}
+.rc-Day:hover {
+  background-color: #000;
+}
+.rc-Day--outside {
+  cursor: default;
+  color: #ccc;
+}
+.rc-Day--outside:hover {
+  background-color: transparent;
+}
+.rc-Day--current {
+  background-color: #000;
+}
+
+
+
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+/*path.stadsdeel {
+	fill: green;
+}
+*/
+
+.fixme {
+	position: fixed;
+	top: 0;
+	width: 580px;
+	z-index:1000;
+	background: #fff;
+	margin: 0 0 10px 0;
+	padding: 0 0 10px 0;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {  
+   opacity: 1;
+}
+
+
+
+
+.panel-heading.active {
+	background-color: #434950 !important;
+	color: #fff !important;
+}
+
+
+
+
+.sparkcircle {
+  fill: steelblue;
+  stroke: none;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  fill: none;
+  stroke: steelblue;
+}

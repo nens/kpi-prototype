@@ -1,0 +1,156 @@
+/**
+ * @jsx React.DOM
+ */
+
+var React = require('react/addons');
+var cx = React.addons.classSet;
+
+require("!style!css!./KPIApp.css");
+
+var Router = require('react-router');
+var Route = Router.Route;
+var NotFoundRoute = Router.NotFoundRoute;
+var DefaultRoute = Router.DefaultRoute;
+var Link = Router.Link;
+var RouteHandler = Router.RouteHandler;
+
+var Row = require('react-bootstrap').Row;
+var Grid = require('react-bootstrap').Grid;
+var Col = require('react-bootstrap').Col;
+var ModalTrigger = require('react-bootstrap').ModalTrigger;
+var ButtonGroup = require('react-bootstrap').ButtonGroup;
+var Button = require('react-bootstrap').Button;
+
+var Modal = require('react-bootstrap').Modal;
+var Badge = require('react-bootstrap').Badge;
+var TabbedArea = require('react-bootstrap').TabbedArea;
+var TabPane = require('react-bootstrap').TabPane;
+var DropdownButton = require('react-bootstrap').DropdownButton;
+var MenuItem = require('react-bootstrap').MenuItem;
+var Table = require('react-bootstrap').Table;
+var DateTimePicker = require('react-widgets').DateTimePicker;
+var Promise = require('es6-promise').Promise;
+
+var $ = require('jquery');
+var _ = require('underscore');
+var d3 = require('d3');
+
+var topojson = require('topojson');
+var colorbrewer = require('colorbrewer');
+var queue = require('queue-async');
+
+var debug = require('debug')('KPIApp.js');
+
+var iconDropdown = require('../images/icon-dropdown.png');
+var iconSettings = require('../images/icon-settings.png');
+
+var iconTevredenheid = require('../images/icon-tevredenheid.png');
+var iconToestand = require('../images/icon-toestand.png');
+var iconOmgeving = require('../images/icon-omgeving.png');
+var iconGebruik = require('../images/icon-gebruik.png');
+var iconPlanning = require('../images/icon-planning.png');
+
+
+var KPIApp = React.createClass({
+
+    getDefaultProps: function() {
+        return {};
+    },
+    getInitialState: function() {
+        return {};
+    },
+    handlePathClick: function(e) {
+        console.log('handlePathClick', e);
+
+    },
+    componentDidMount: function() {
+        var self = this;
+
+
+        var path = d3.geo.path()
+            .projection = d3.geo.mercator()
+               .center([5.19513, 52.36744]) 
+               .scale(44800);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+        queue()
+            .defer(d3.json, "static/data/almere.shp.topojson")
+            .await(ready);
+
+        function ready(error, data) {
+            console.log('data', topojson.feature(data, data.objects.buurt_2011_v3).features);
+            svg.append("path")
+                  .datum(topojson.feature(ca, ca.objects.counties))
+                  .attr("class", "land")
+                  .attr("d", path);
+              // 
+        }
+
+    },
+    componentWillMount: function() {
+    },    
+    componentWillUnmount: function() {
+    },
+    render: function() {
+        return (
+              <Grid>
+              	<Row>
+	              	<Col xs={12} md={6}>
+	              		<h2 style={{fontWeight:700, fontSize:40, padding:'15px 0 25px 0'}}>Prestaties</h2>
+
+                        <p style={{fontWeight:200, fontSize:20}}>Een 'Key Performance Indicator' geeft op basis van onderliggende indicatoren inzicht in de prestaties van een watersysteem.</p>
+                        <p style={{fontWeight:200, fontSize:20}}>We tonen hier vijf KPIs. Wilt u meer informatie over de opbouw van een KPI, klik of tap dan op het icoontje hierboven.</p>
+	              	</Col>
+                    <Col xs={12} md={6} style={{textAlign:'center'}}>
+
+                        <div id="map" className="map" style={{marginTop:30}}>
+                        </div>
+                        
+                        <ButtonGroup>
+                          <Button>Gemeente</Button>
+                          <Button>Wijk</Button>
+                          <Button>Buurt</Button>
+                        </ButtonGroup>
+                        
+                    </Col>
+              	</Row>
+                <Row>
+                    <Col xs={12} md={6}>
+                        <div className="figure-items">
+                            <div className="figure-item tevredenheid">
+                                <div className="figure">35</div>
+                                <div className="figure-title">Tevredenheid</div>
+                            </div>
+                            <div className="figure-item toestand">
+                                <div className="figure">22</div>
+                                <div className="figure-title">Toestand</div>
+                            </div>
+                            <div className="figure-item omgeving">
+                                <div className="figure">73</div>
+                                <div className="figure-title">Omgeving</div>
+                            </div>
+                            <div className="figure-item gebruik">
+                                <div className="figure">77</div>
+                                <div className="figure-title">Gebruik</div>
+                            </div>
+                            <div className="figure-item planning">
+                                <div className="figure">0</div>
+                                <div className="figure-title">Planning</div>
+                            </div>
+                        </div>                        
+                    </Col>
+                    <Col xs={12} md={6}>
+                        &nbsp;
+                    </Col>
+                </Row>
+              </Grid>
+        );
+    }
+});
+
+
+
+module.exports = KPIApp;

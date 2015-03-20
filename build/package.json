@@ -1,0 +1,44 @@
+{
+  "name": "kpi-dashboard",
+  "private": true,
+  "version": "0.0.1",
+  "description": "KPI Dashboard for Lizard",
+  "main": "app.js",
+  "author": "Gijs Nijholt <gijs.nijholt@nelen-schuurmans.nl>",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "debug": "^2.0.0",
+    "babel": "~4.3.0",
+    "moment": "",
+    "react": "0.12.1",
+    "react-widgets": "",
+    "react-bootstrap": "",
+    "react-router": "",
+    "react-calendar": "",
+    "jquery": "~2.1.1",
+    "es6-promise": "1.0.0",
+    "leaflet": "0.7.3",
+    "d3": "",
+    "paths-js": "~0.3.2",
+    "topojson": "",
+    "colorbrewer": "",
+    "queue-async" :"",
+    "underscore": "",
+    "reductio": ""
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.11.0",
+    "less": "^1.7.5",
+    "less-loader": "^0.7.7",    
+    "sass-loader": "^0.4.0",    
+    "babel-loader": "~4.0.0",
+    "css-loader": "",
+    "sinon": "",
+    "style-loader": "",
+    "url-loader": "0.5.5",
+    "imports-loader": "",
+    "webpack": "^1.4.0-beta1"
+  }
+}

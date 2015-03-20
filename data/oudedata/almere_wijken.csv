@@ -1,0 +1,316 @@
+State,Industry Group,RoundClassDescr,Deals,Number of Deals,Raised
+De Werven,Tevredenheid,Startup,9,1,41
+De Werven,Toestand,Startup,9,1,41
+De Werven,Omgeving,Startup,9,1,41
+De Werven,Gebruik,Startup,9,1,41
+De Werven,Planning,Startup,9,1,41
+De Hoven,Tevredenheid,Medium,9,1,41
+De Hoven,Toestand,Medium,9,1,410
+De Hoven,Omgeving,Medium,9,1,41
+De Hoven,Gebruik ,Medium,9,1,41
+De Hoven,Planning,Medium,9,1,41
+De Meenten,Tevredenheid,Medium,8,1,1
+De Meenten,Toestand,Medium,8,1,110
+De Meenten,Omgeving,Medium,8,1,1
+De Meenten,Gebruik ,Medium,8,1,1
+De Meenten,Planning,Medium,8,1,1
+De Grienden,Tevredenheid,Medium,71,1,1
+De Grienden,Toestand,Medium,71,1,1
+De Grienden,Omgeving,Medium,71,1,1
+De Grienden,Gebruik ,Medium,71,1,1
+De Grienden,Planning,Medium,71,1,1
+De Marken,Tevredenheid,Large,61,1,1
+De Marken,Toestand,Large,61,1,1
+De Marken,Omgeving,Large,61,1,1
+De Marken,Gebruik ,Large,61,1,1
+De Marken,Planning,Large,61,1,1
+De Gouwen,Tevredenheid,LLC,61,1,1
+De Gouwen,Toestand,LLC,61,1,1
+De Gouwen,Omgeving,LLC,61,1,1
+De Gouwen,Gebruik ,LLC,61,1,1
+De Gouwen,Planning,LLC,61,1,1
+De Wierden,Tevredenheid,Startup,71,1,1
+De Wierden,Toestand,Startup,71,1,1
+De Wierden,Omgeving,Startup,71,1,1
+De Wierden,Gebruik ,Startup,71,1,1
+De Wierden,Planning,Startup,71,1,1
+De Velden,Tevredenheid,Startup,81,1,1
+De Velden,Toestand,Startup,81,1,100
+De Velden,Omgeving,Startup,81,1,1
+De Velden,Gebruik ,Startup,81,1,1
+De Velden,Planning,Startup,81,1,1
+Overgooi,Tevredenheid,Startup,9,1,1
+Overgooi,Toestand,Startup,9,1,1
+Overgooi,Omgeving,Startup,9,1,1
+Overgooi,Gebruik ,Startup,9,1,1
+Overgooi,Planning,Startup,9,1,1
+De Steiger,Tevredenheid,Startup,2,1,1
+De Steiger,Toestand,Startup,2,11,1
+De Steiger,Omgeving,Startup,2,1,1
+De Steiger,Gebruik ,Startup,2,1,1
+De Steiger,Planning,Startup,2,1,1
+Stichtsekant,Tevredenheid,Startup,3,1,1
+Stichtsekant,Toestand,Startup,3,11,1
+Stichtsekant,Omgeving,Startup,3,11,1
+Stichtsekant,Gebruik ,Startup,3,11,1
+Stichtsekant,Planning,Startup,3,11,1
+Verspreide Huizen Almere-Haven,Tevredenheid,Startup,4,11,1
+Verspreide Huizen Almere-Haven,Toestand,Startup,4,11,1
+Verspreide Huizen Almere-Haven,Omgeving,Startup,4,11,1
+Verspreide Huizen Almere-Haven,Gebruik ,Startup,4,11,100
+Verspreide Huizen Almere-Haven,Planning,Startup,4,11,1
+Centrum Almere-Haven,Tevredenheid,Startup,4,1,1
+Centrum Almere-Haven,Toestand,Startup,4,1,100
+Centrum Almere-Haven,Omgeving,Startup,4,1,1
+Centrum Almere-Haven,Gebruik ,Startup,4,1,1
+Centrum Almere-Haven,Planning,Startup,4,1,1
+Centrum Almere-Stad,Tevredenheid,Startup,5,1,1
+Centrum Almere-Stad,Toestand,Startup,5,1,1
+Centrum Almere-Stad,Omgeving,Startup,5,1,1
+Centrum Almere-Stad,Gebruik ,Startup,5,1,1
+Centrum Almere-Stad,Planning,Startup,5,1,1
+Filmwijk,Tevredenheid,Startup,6,1,1
+Filmwijk,Toestand,Startup,6,1,400
+Filmwijk,Omgeving,Startup,6,1,300
+Filmwijk,Gebruik ,Startup,6,1,100
+Filmwijk,Planning,Startup,6,1,100
+Danswijk,Tevredenheid,Startup,7,1,1
+Danswijk,Toestand,Startup,7,1,1
+Danswijk,Omgeving,Startup,7,1,1
+Danswijk,Gebruik ,Startup,7,1,1
+Danswijk,Planning,Startup,7,1,1
+Parkwijk,Tevredenheid,Startup,8,1,1
+Parkwijk,Toestand,Startup,8,1,1
+Parkwijk,Omgeving,Startup,8,1,1
+Parkwijk,Gebruik ,Startup,8,1,1
+Parkwijk,Planning,Startup,8,1,1
+Verzetswijk,Tevredenheid,Startup,1,11,1
+Verzetswijk,Toestand,Startup,1,11,100
+Verzetswijk,Omgeving,Startup,1,11,100
+Verzetswijk,Gebruik ,Startup,1,11,200
+Verzetswijk,Planning,Startup,1,11,300
+Waterwijk,Tevredenheid,Startup,2,1,1
+Waterwijk,Toestand,Startup,2,1,1
+Waterwijk,Omgeving,Startup,2,1,1
+Waterwijk,Gebruik ,Startup,2,1,1
+Waterwijk,Planning,Startup,2,1,1
+Tussen de Vaarten Noord,Tevredenheid,Startup,3,1,1
+Tussen de Vaarten Noord,Toestand,Startup,3,1,1
+Tussen de Vaarten Noord,Omgeving,Startup,3,1,1
+Tussen de Vaarten Noord,Gebruik ,Startup,3,1,1
+Tussen de Vaarten Noord,Planning,Startup,3,1,1
+Tussen de Vaarten Zuid,Tevredenheid,Startup,1,1,1
+Tussen de Vaarten Zuid,Toestand,Startup,1,1,1
+Tussen de Vaarten Zuid,Omgeving,Startup,1,1,1
+Tussen de Vaarten Zuid,Gebruik ,Startup,1,1,1
+Tussen de Vaarten Zuid,Planning,Startup,1,1,1
+Staatsliedenwijk,Tevredenheid,Startup,1,1,1
+Staatsliedenwijk,Toestand,Startup,1,1,1
+Staatsliedenwijk,Omgeving,Startup,1,1,1
+Staatsliedenwijk,Gebruik ,Startup,1,1,1
+Staatsliedenwijk,Planning,Startup,1,1,1
+Kruidenwijk,Tevredenheid,Startup,1,1,1
+Kruidenwijk,Toestand,Startup,1,1,1
+Kruidenwijk,Omgeving,Startup,1,1,1
+Kruidenwijk,Gebruik ,Startup,1,1,1
+Kruidenwijk,Planning,Startup,1,1,1
+Stedenwijk,Tevredenheid,Startup,1,1,1
+Stedenwijk,Toestand,Startup,1,1,1
+Stedenwijk,Omgeving,Startup,1,1,1
+Stedenwijk,Gebruik ,Startup,1,1,1
+Stedenwijk,Planning,Startup,1,1,1
+Muziekwijk Noord,Tevredenheid,Startup,1,1,1
+Muziekwijk Noord,Toestand,Startup,1,1,1
+Muziekwijk Noord,Omgeving,Startup,1,1,1
+Muziekwijk Noord,Gebruik ,Startup,1,1,1
+Muziekwijk Noord,Planning,Startup,1,1,1
+Muziekwijk Zuid,Tevredenheid,Startup,1,1,1
+Muziekwijk Zuid,Toestand,Startup,1,1,1
+Muziekwijk Zuid,Omgeving,Startup,1,1,1
+Muziekwijk Zuid,Gebruik ,Startup,1,1,1
+Muziekwijk Zuid,Planning,Startup,1,1,1
+Literatuurwijk,Tevredenheid,Startup,1,1,1
+Literatuurwijk,Toestand,Startup,1,1,1
+Literatuurwijk,Omgeving,Startup,1,1,1
+Literatuurwijk,Gebruik ,Startup,1,1,1
+Literatuurwijk,Planning,Startup,1,1,1
+Noorderplassen,Tevredenheid,Startup,1,1,1
+Noorderplassen,Toestand,Startup,1,1,1
+Noorderplassen,Omgeving,Startup,1,1,1
+Noorderplassen,Gebruik ,Startup,1,1,1
+Noorderplassen,Planning,Startup,1,1,1
+Randstad,Tevredenheid,Startup,1,2,1
+Randstad,Toestand,Startup,1,2,1
+Randstad,Omgeving,Startup,1,2,1
+Randstad,Gebruik ,Startup,1,2,1
+Randstad,Planning,Startup,1,2,1
+Markerkant,Tevredenheid,Startup,4,1,1
+Markerkant,Toestand,Startup,4,1,1
+Markerkant,Omgeving,Startup,4,1,1
+Markerkant,Gebruik ,Startup,4,1,1
+Markerkant,Planning,Startup,4,1,1
+Hollandsekant,Tevredenheid,Startup,1,1,1
+Hollandsekant,Toestand,Startup,1,1,1
+Hollandsekant,Omgeving,Startup,1,1,1
+Hollandsekant,Gebruik ,Startup,1,1,1
+Hollandsekant,Planning,Startup,1,1,1
+Gooisekant,Tevredenheid,Startup,1,1,1
+Gooisekant,Toestand,Startup,1,1,1
+Gooisekant,Omgeving,Startup,1,1,1
+Gooisekant,Gebruik ,Startup,1,1,1
+Gooisekant,Planning,Startup,1,1,1
+Veluwsekant,Tevredenheid,Startup,1,1,,1
+Veluwsekant,Toestand,Startup,1,1,1
+Veluwsekant,Omgeving,Startup,1,1,1
+Veluwsekant,Gebruik ,Startup,1,1,1
+Veluwsekant,Planning,Startup,1,1,1
+Sallandsekant,Tevredenheid,Startup,1,1,1
+Sallandsekant,Toestand,Startup,1,1,1
+Sallandsekant,Omgeving,Startup,1,1,1
+Sallandsekant,Gebruik ,Startup,1,1,1
+Sallandsekant,Planning,Startup,1,1,1
+Verspreide huizen Almere-Stad,Tevredenheid,Startup,1,1,1
+Verspreide huizen Almere-Stad,Toestand,Startup,1,1,1
+Verspreide huizen Almere-Stad,Omgeving,Startup,1,1,1
+Verspreide huizen Almere-Stad,Gebruik ,Startup,1,1,1
+Verspreide huizen Almere-Stad,Planning,Startup,1,1,1
+Centrum Almere-Buiten,Tevredenheid,Startup,1,1,1
+Centrum Almere-Buiten,Toestand,Startup,1,1,1
+Centrum Almere-Buiten,Omgeving,Startup,1,1,1
+Centrum Almere-Buiten,Gebruik ,Startup,1,1,1
+Centrum Almere-Buiten,Planning,Startup,1,1,1
+Oostvaardersbuurt,Tevredenheid,Startup,1,1,1
+Oostvaardersbuurt,Toestand,Startup,1,1,1
+Oostvaardersbuurt,Omgeving,Startup,1,1,1
+Oostvaardersbuurt,Gebruik ,Startup,1,1,1
+Oostvaardersbuurt,Planning,Startup,1,1,1
+Seizoenenbuurt,Tevredenheid,Startup,1,1,1
+Seizoenenbuurt,Toestand,Startup,1,1,1
+Seizoenenbuurt,Omgeving,Startup,1,1,1
+Seizoenenbuurt,Gebruik ,Startup,1,1,1
+Seizoenenbuurt,Planning,Startup,1,1,1
+Molenbuurt,Tevredenheid,Startup,1,1,1
+Molenbuurt,Toestand,Startup,1,1,1
+Molenbuurt,Omgeving,Startup,1,1,1
+Molenbuurt,Gebruik ,Startup,1,1,1
+Molenbuurt,Planning,Startup,1,1,1
+Bouwmeesterbuurt,Tevredenheid,Startup,1,1,1
+Bouwmeesterbuurt,Toestand,Startup,1,1,1
+Bouwmeesterbuurt,Omgeving,Startup,1,1,1
+Bouwmeesterbuurt,Gebruik ,Startup,1,1,1
+Bouwmeesterbuurt,Planning,Startup,1,1,1
+Landgoederenbuurt,Tevredenheid,Startup,1,1,1
+Landgoederenbuurt,Toestand,Startup,1,1,1
+Landgoederenbuurt,Omgeving,Startup,1,1,1
+Landgoederenbuurt,Gebruik ,Startup,1,1,1
+Landgoederenbuurt,Planning,Startup,1,1,1
+Faunabuurt,Tevredenheid,Medium,1,1,1
+Faunabuurt,Toestand,Medium,1,1,1
+Faunabuurt,Omgeving,Medium,1,1,1
+Faunabuurt,Gebruik ,Medium,1,1,1
+Faunabuurt,Planning,Medium,1,1,1
+Bloemenbuurt,Tevredenheid,Medium,1,1,1
+Bloemenbuurt,Toestand,Medium,1,1,1
+Bloemenbuurt,Omgeving,Medium,1,1,1
+Bloemenbuurt,Gebruik ,Medium,1,1,1
+Bloemenbuurt,Planning,Medium,1,1,1
+Regenboogbuurt,Tevredenheid,Large,1,1,1
+Regenboogbuurt,Toestand,Large,1,1,1
+Regenboogbuurt,Omgeving,Large,1,1,1
+Regenboogbuurt,Gebruik ,Large,1,1,1
+Regenboogbuurt,Planning,Large,1,1,1
+Indischebuurt,Tevredenheid,Large,1,1,1
+Indischebuurt,Toestand,Large,1,1,1
+Indischebuurt,Omgeving,Large,1,1,1
+Indischebuurt,Gebruik ,Large,1,1,1
+Indischebuurt,Planning,Large,1,1,1
+Eilandenbuurt,Tevredenheid,Large,1,1,1
+Eilandenbuurt,Toestand,Large,1,1,1
+Eilandenbuurt,Omgeving,Large,1,1,1
+Eilandenbuurt,Gebruik ,Large,1,1,1
+Eilandenbuurt,Planning,Large,1,1,1
+Stripheldenbuurt,Tevredenheid,Startup,1,1,300
+Stripheldenbuurt,Toestand,Startup,1,1,100
+Stripheldenbuurt,Omgeving,Startup,1,1,100
+Stripheldenbuurt,Gebruik ,Startup,1,1,200
+Stripheldenbuurt,Planning,Startup,1,1,300
+Sieradenbuurt,Tevredenheid,Startup,1,1,400
+Sieradenbuurt,Toestand,Startup,1,1,1
+Sieradenbuurt,Omgeving,Startup,1,1,1
+Sieradenbuurt,Gebruik ,Startup,1,1,1
+Sieradenbuurt,Planning,Startup,1,1,1
+Poldervlak,Tevredenheid,Startup,1,1,1
+Poldervlak,Toestand,Startup,1,1,1
+Poldervlak,Omgeving,Startup,1,1,1
+Poldervlak,Gebruik ,Startup,1,1,1
+Poldervlak,Planning,Startup,1,1,1
+De Vaart,Tevredenheid,Startup,1,1,1
+De Vaart,Toestand,Startup,1,1,1
+De Vaart,Omgeving,Startup,1,1,1
+De Vaart,Gebruik ,Startup,1,1,1
+De Vaart,Planning,Startup,1,1,1
+Buitenvaart,Tevredenheid,Startup,1,1,1
+Buitenvaart,Toestand,Startup,1,1,1
+Buitenvaart,Omgeving,Startup,1,1,1
+Buitenvaart,Gebruik ,Startup,1,1,1
+Buitenvaart,Planning,Startup,1,1,1
+Verspreide huizen Almere-Buiten,Tevredenheid,Startup,1,1,1
+Verspreide huizen Almere-Buiten,Toestand,Startup,1,1,1
+Verspreide huizen Almere-Buiten,Omgeving,Startup,1,1,1
+Verspreide huizen Almere-Buiten,Gebruik ,Startup,1,1,1
+Verspreide huizen Almere-Buiten,Planning,Startup,1,1,1
+Europakwartier,Tevredenheid,Startup,1,1,1
+Europakwartier,Toestand,Startup,1,1,1
+Europakwartier,Omgeving,Startup,1,1,1
+Europakwartier,Gebruik ,Startup,1,1,1
+Europakwartier,Planning,Startup,1,1,1
+Columbuskwartier,Tevredenheid,Startup,1,1,1
+Columbuskwartier,Toestand,Startup,1,1,1
+Columbuskwartier,Omgeving,Startup,1,1,1
+Columbuskwartier,Gebruik ,Startup,1,1,1
+Columbuskwartier,Planning,Startup,1,1,1
+Homeruskwartier,Tevredenheid,Startup,1,1,1
+Homeruskwartier,Toestand,Startup,1,1,1
+Homeruskwartier,Omgeving,Startup,1,1,1
+Homeruskwartier,Gebruik ,Startup,1,1,1
+Homeruskwartier,Planning,Startup,1,1,1
+Olympiakwartier,Tevredenheid,Startup,1,1,1
+Olympiakwartier,Toestand,Startup,1,1,1
+Olympiakwartier,Omgeving,Startup,1,1,1
+Olympiakwartier,Gebruik ,Startup,1,1,1
+Olympiakwartier,Planning,Startup,1,1,1
+Hogekant,Tevredenheid,Startup,1,1,1
+Hogekant,Toestand,Startup,1,1,1
+Hogekant,Omgeving,Startup,1,1,1
+Hogekant,Gebruik ,Startup,1,1,1
+Hogekant,Planning,Startup,1,1,1
+Middenkant,Tevredenheid,Startup,1,1,1
+Middenkant,Toestand,Startup,1,1,1
+Middenkant,Omgeving,Startup,1,1,1
+Middenkant,Gebruik ,Startup,1,1,1
+Middenkant,Planning,Startup,1,1,1
+Lagekant,Tevredenheid,Startup,1,1,1
+Lagekant,Toestand,Startup,1,1,1
+Lagekant,Omgeving,Startup,1,1,1
+Lagekant,Gebruik ,Startup,1,1,1
+Lagekant,Planning,Startup,1,1,1
+Verspreide huizen Almere-Poort,Tevredenheid,Startup,1,1,1
+Verspreide huizen Almere-Poort,Toestand,Startup,1,1,1
+Verspreide huizen Almere-Poort,Omgeving,Startup,1,1,1
+Verspreide huizen Almere-Poort,Gebruik ,Startup,1,1,1
+Verspreide huizen Almere-Poort,Planning,Startup,1,1,1
+Vogelhorst,Tevredenheid,Startup,1,1,1
+Vogelhorst,Toestand,Startup,1,1,1
+Vogelhorst,Omgeving,Startup,1,1,1
+Vogelhorst,Gebruik ,Startup,1,1,1
+Vogelhorst,Planning,Startup,1,1,1
+Verspreide huizen Almere-Hout,Tevredenheid,Startup,1,1,1
+Verspreide huizen Almere-Hout,Toestand,Startup,1,1,1
+Verspreide huizen Almere-Hout,Omgeving,Startup,1,1,1
+Verspreide huizen Almere-Hout,Gebruik ,Startup,1,1,1
+Verspreide huizen Almere-Hout,Planning,Startup,1,1,1
+Verspreide huizen Almere-Pampus,Tevredenheid,Startup,1,1,1
+Verspreide huizen Almere-Pampus,Toestand,Startup,1,1,1
+Verspreide huizen Almere-Pampus,Omgeving,Startup,1,1,1
+Verspreide huizen Almere-Pampus,Gebruik ,Startup,1,1,1
+Verspreide huizen Almere-Pampus,Planning,Startup,1,1,1
