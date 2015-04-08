@@ -58,19 +58,19 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Sep/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Oct/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Nov/13,,,
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.3,8.7,13
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,May/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.1,9.6,4
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Aug/14,19.2,1.0,806
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.3,8.7,13
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.2,9.1,8
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.1,9.6,4
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Dec/14,,,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,May/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Aug/14,19.2,7.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Haven,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.0,8.0,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Jan/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Feb/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Mar/09,,,
@@ -130,19 +130,19 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Sep/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Oct/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Nov/13,,,
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.2,9.1,22
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.9,6.0,98
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.8,6.4,87
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.6,7.3,65
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.6,7.3,65
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,May/14,1.0,5.5,109
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.2,9.1,22
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.3,8.7,33
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Aug/14,0.7,6.9,76
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.2,9.1,22
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.1,9.6,11
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Dec/14,,,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.9,6.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.8,6.4,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.6,7.3,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.6,7.3,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,May/14,1.0,6.5,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Aug/14,0.7,6.9,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Stad,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.0,7.9,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Jan/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Feb/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Mar/09,,,
@@ -202,19 +202,19 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Sep/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Oct/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Nov/13,,,
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.2,9.1,13
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.8,6.4,53
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.5,7.8,33
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.3,8.7,20
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,May/14,0.7,6.9,46
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.4,8.2,26
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.6,7.3,40
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Aug/14,1.3,4.2,86
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.3,8.7,20
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.2,9.1,13
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Dec/14,,,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.8,6.4,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.5,7.8,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,May/14,0.7,6.9,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.4,8.2,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.6,7.3,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Aug/14,1.3,6.2,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Buiten,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.0,7.1,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Jan/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Feb/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Mar/09,,,
@@ -274,19 +274,19 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Sep/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Oct/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Nov/13,,,
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.1,9.6,3
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.5,7.8,17
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.2,9.1,7
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,May/14,0.6,7.3,20
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.3,8.7,10
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.7,6.9,23
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Aug/14,1.1,5.1,36
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.8,6.4,26
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.1,9.6,3
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.1,9.6,3
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Dec/14,,,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.5,7.8,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,May/14,0.6,7.3,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.7,6.9,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Aug/14,1.1,7.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.8,6.4,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.1,7.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Poort,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.0,8.2,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Jan/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Feb/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Mar/09,,,
@@ -346,19 +346,19 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Sep/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Oct/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Nov/13,,,
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.3,8.7,5
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.1,9.6,2
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.1,9.6,2
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.1,9.6,2
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,May/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.1,9.6,2
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.3,8.7,5
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Aug/14,0.1,9.6,2
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.1,9.6,2
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Dec/14,,,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,May/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Aug/14,0.1,9.6,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.1,9.2,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Hout,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.0,8.6,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Jan/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Feb/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Mar/09,,,
@@ -417,20 +417,20 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Aug/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Sep/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Oct/13,,,
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Nov/13,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,May/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Aug/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Dec/14,,,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Nov/13,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.0,6.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.0,8.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.0,7.3,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,May/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Aug/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Pampus,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.0,10.0,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Jan/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Feb/09,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Mar/09,,,
@@ -490,19 +490,19 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Sep/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Oct/13,,,
 19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Nov/13,,,
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.2,9.1,53
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.6,7.3,160
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.5,7.8,133
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.3,8.7,80
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.3,8.7,80
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,May/14,0.7,6.9,186
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.2,9.1,53
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.4,8.2,106
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Aug/14,3.8,1.0,1011
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.3,8.7,80
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.2,9.1,53
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,0
-19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Dec/14,,,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Dec/13,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Jan/14,0.6,7.3,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Feb/14,0.5,7.8,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Mar/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Apr/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,May/14,0.7,6.9,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.4,8.2,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Aug/14,3.8,7.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.3,8.7,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.2,9.1,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.0,10.0,
+19,TOESTAND,Functioneren gemalen - Peiloverschrijdingen gemaalkelder,Almere,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.0,8.5,
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Jan/09,,,
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Feb/09,,,
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Mar/09,,,
@@ -571,7 +571,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.9,6.0,38
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Jul/14,1.0,5.5,42
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Aug/14,1.5,3.3,63
-20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Sep/14,,,
+20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Sep/14,1.0,5.1,50
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.7,6.9,29
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.8,6.4,34
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Haven,gem. aantal/gemaal/maand,0,1,2,Dec/14,1.3,4.2,55
@@ -643,7 +643,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Stad,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.7,6.9,76
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Stad,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.7,6.9,76
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Stad,gem. aantal/gemaal/maand,0,1,2,Aug/14,0.7,6.9,76
-20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Stad,gem. aantal/gemaal/maand,0,1,2,Sep/14,,,
+20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Stad,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.7,6.9,76
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Stad,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.7,6.9,76
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Stad,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.5,7.8,55
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Stad,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.5,7.8,55
@@ -715,7 +715,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Buiten,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.3,8.7,20
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Buiten,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.5,7.8,33
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Buiten,gem. aantal/gemaal/maand,0,1,2,Aug/14,1.0,5.5,66
-20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Buiten,gem. aantal/gemaal/maand,0,1,2,Sep/14,,,
+20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Buiten,gem. aantal/gemaal/maand,0,1,2,Sep/14,1.0,6.4,66
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Buiten,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.6,7.3,40
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Buiten,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.6,7.3,40
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Buiten,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.9,6.0,59
@@ -787,7 +787,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Poort,gem. aantal/gemaal/maand,0,1,2,Jun/14,1.3,4.2,43
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Poort,gem. aantal/gemaal/maand,0,1,2,Jul/14,1.8,1.9,59
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Poort,gem. aantal/gemaal/maand,0,1,2,Aug/14,2.8,1.0,92
-20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Poort,gem. aantal/gemaal/maand,0,1,2,Sep/14,,,
+20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Poort,gem. aantal/gemaal/maand,0,1,2,Sep/14,2.8,3.3,92
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Poort,gem. aantal/gemaal/maand,0,1,2,Oct/14,1.0,5.5,33
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Poort,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.9,6.0,30
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Poort,gem. aantal/gemaal/maand,0,1,2,Dec/14,1.7,2.4,56
@@ -859,7 +859,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Hout,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.6,7.3,9
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Hout,gem. aantal/gemaal/maand,0,1,2,Jul/14,1.0,5.5,15
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Hout,gem. aantal/gemaal/maand,0,1,2,Aug/14,0.4,8.2,6
-20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Hout,gem. aantal/gemaal/maand,0,1,2,Sep/14,,,
+20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Hout,gem. aantal/gemaal/maand,0,1,2,Sep/14,0.4,6.7,6
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Hout,gem. aantal/gemaal/maand,0,1,2,Oct/14,1.1,5.1,17
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Hout,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.6,7.3,9
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Hout,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.8,6.4,12
@@ -931,7 +931,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Pampus,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.0,10.0,0
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Pampus,gem. aantal/gemaal/maand,0,1,2,Jul/14,3.0,1.0,3
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Pampus,gem. aantal/gemaal/maand,0,1,2,Aug/14,5.0,1.0,5
-20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Pampus,gem. aantal/gemaal/maand,0,1,2,Sep/14,,,
+20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Pampus,gem. aantal/gemaal/maand,0,1,2,Sep/14,5.0,5.0,5
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Pampus,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.0,10.0,0
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Pampus,gem. aantal/gemaal/maand,0,1,2,Nov/14,1.0,5.5,1
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Pampus,gem. aantal/gemaal/maand,0,1,2,Dec/14,11.0,1.0,11
@@ -1003,7 +1003,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Almere,gem. aantal/gemaal/maand,0,1,2,Jun/14,0.7,6.9,186
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Almere,gem. aantal/gemaal/maand,0,1,2,Jul/14,0.8,6.4,213
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Almere,gem. aantal/gemaal/maand,0,1,2,Aug/14,1.2,4.6,319
-20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Almere,gem. aantal/gemaal/maand,0,1,2,Sep/14,,,
+20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Almere,gem. aantal/gemaal/maand,0,1,2,Sep/14,1.2,5.8,319
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Almere,gem. aantal/gemaal/maand,0,1,2,Oct/14,0.7,6.9,186
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Almere,gem. aantal/gemaal/maand,0,1,2,Nov/14,0.6,7.3,160
 20,TOESTAND,Functioneren gemalen - Draaitijd meer dan 90pct boven gemiddeld,Almere,gem. aantal/gemaal/maand,0,1,2,Dec/14,0.9,6.0,239
@@ -2302,7 +2302,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 23,TOESTAND,Kwaliteit leidingen - Leidingen met verloren berging - dummy,Poort,aantal/maand,,,,Sep/14,,4.9,
 23,TOESTAND,Kwaliteit leidingen - Leidingen met verloren berging - dummy,Poort,aantal/maand,,,,Oct/14,,7.4,
 23,TOESTAND,Kwaliteit leidingen - Leidingen met verloren berging - dummy,Poort,aantal/maand,,,,Nov/14,,0.9,
-23,TOESTAND,Kwaliteit leidingen - Leidingen met verloren berging - dummy,Poort,aantal/maand,,,,Dec/14,,0.3,
+23,TOESTAND,Kwaliteit leidingen - Leidingen met verloren berging - dummy,Poort,aantal/maand,,,,Dec/14,,1.3,
 23,TOESTAND,Kwaliteit leidingen - Leidingen met verloren berging - dummy,Hout,aantal/maand,,,,Jan/09,,0.7,
 23,TOESTAND,Kwaliteit leidingen - Leidingen met verloren berging - dummy,Hout,aantal/maand,,,,Feb/09,,6.9,
 23,TOESTAND,Kwaliteit leidingen - Leidingen met verloren berging - dummy,Hout,aantal/maand,,,,Mar/09,,4.4,
@@ -3814,7 +3814,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 26,TOESTAND,Meldingen burgers - Verzakkingen - dummy,Poort,aantal/maand,,,,Sep/14,,6.8,
 26,TOESTAND,Meldingen burgers - Verzakkingen - dummy,Poort,aantal/maand,,,,Oct/14,,4.1,
 26,TOESTAND,Meldingen burgers - Verzakkingen - dummy,Poort,aantal/maand,,,,Nov/14,,8.0,
-26,TOESTAND,Meldingen burgers - Verzakkingen - dummy,Poort,aantal/maand,,,,Dec/14,,0.5,
+26,TOESTAND,Meldingen burgers - Verzakkingen - dummy,Poort,aantal/maand,,,,Dec/14,,1.5,
 26,TOESTAND,Meldingen burgers - Verzakkingen - dummy,Hout,aantal/maand,,,,Jan/09,,0.0,
 26,TOESTAND,Meldingen burgers - Verzakkingen - dummy,Hout,aantal/maand,,,,Feb/09,,2.7,
 26,TOESTAND,Meldingen burgers - Verzakkingen - dummy,Hout,aantal/maand,,,,Mar/09,,4.3,
@@ -4246,7 +4246,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 27,TOESTAND,Functioneren gemalen - Incidentele onderhoudsmomenten - dummy,Buiten,aantal/maand,,,,Sep/14,,5.6,
 27,TOESTAND,Functioneren gemalen - Incidentele onderhoudsmomenten - dummy,Buiten,aantal/maand,,,,Oct/14,,7.5,
 27,TOESTAND,Functioneren gemalen - Incidentele onderhoudsmomenten - dummy,Buiten,aantal/maand,,,,Nov/14,,0.4,
-27,TOESTAND,Functioneren gemalen - Incidentele onderhoudsmomenten - dummy,Buiten,aantal/maand,,,,Dec/14,,0.5,
+27,TOESTAND,Functioneren gemalen - Incidentele onderhoudsmomenten - dummy,Buiten,aantal/maand,,,,Dec/14,,1.5,
 27,TOESTAND,Functioneren gemalen - Incidentele onderhoudsmomenten - dummy,Poort,aantal/maand,,,,Jan/09,,7.8,
 27,TOESTAND,Functioneren gemalen - Incidentele onderhoudsmomenten - dummy,Poort,aantal/maand,,,,Feb/09,,3.4,
 27,TOESTAND,Functioneren gemalen - Incidentele onderhoudsmomenten - dummy,Poort,aantal/maand,,,,Mar/09,,9.3,
@@ -4606,7 +4606,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 28,TOESTAND,Verstopte kolken - Incidentele reinigingen - dummy,Haven,aantal/maand,,,,Sep/14,,5.6,
 28,TOESTAND,Verstopte kolken - Incidentele reinigingen - dummy,Haven,aantal/maand,,,,Oct/14,,5.7,
 28,TOESTAND,Verstopte kolken - Incidentele reinigingen - dummy,Haven,aantal/maand,,,,Nov/14,,8.9,
-28,TOESTAND,Verstopte kolken - Incidentele reinigingen - dummy,Haven,aantal/maand,,,,Dec/14,,0.3,
+28,TOESTAND,Verstopte kolken - Incidentele reinigingen - dummy,Haven,aantal/maand,,,,Dec/14,,1.3,
 28,TOESTAND,Verstopte kolken - Incidentele reinigingen - dummy,Stad,aantal/maand,,,,Jan/09,,0.7,
 28,TOESTAND,Verstopte kolken - Incidentele reinigingen - dummy,Stad,aantal/maand,,,,Feb/09,,9.9,
 28,TOESTAND,Verstopte kolken - Incidentele reinigingen - dummy,Stad,aantal/maand,,,,Mar/09,,6.2,
@@ -5398,7 +5398,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 29,TOESTAND,Functioneren leidingen - Overschrijding verontreinigingsgraad - dummy,Hout,aantal/maand,,,,Sep/14,,3.7,
 29,TOESTAND,Functioneren leidingen - Overschrijding verontreinigingsgraad - dummy,Hout,aantal/maand,,,,Oct/14,,8.5,
 29,TOESTAND,Functioneren leidingen - Overschrijding verontreinigingsgraad - dummy,Hout,aantal/maand,,,,Nov/14,,6.9,
-29,TOESTAND,Functioneren leidingen - Overschrijding verontreinigingsgraad - dummy,Hout,aantal/maand,,,,Dec/14,,0.1,
+29,TOESTAND,Functioneren leidingen - Overschrijding verontreinigingsgraad - dummy,Hout,aantal/maand,,,,Dec/14,,1.1,
 29,TOESTAND,Functioneren leidingen - Overschrijding verontreinigingsgraad - dummy,Pampus,aantal/maand,,,,Jan/09,,8.2,
 29,TOESTAND,Functioneren leidingen - Overschrijding verontreinigingsgraad - dummy,Pampus,aantal/maand,,,,Feb/09,,2.3,
 29,TOESTAND,Functioneren leidingen - Overschrijding verontreinigingsgraad - dummy,Pampus,aantal/maand,,,,Mar/09,,4.1,
@@ -5614,7 +5614,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Haven,aantal/maand,,,,Sep/14,,7.0,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Haven,aantal/maand,,,,Oct/14,,6.6,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Haven,aantal/maand,,,,Nov/14,,9.0,
-30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Haven,aantal/maand,,,,Dec/14,,0.5,
+30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Haven,aantal/maand,,,,Dec/14,,1.1,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Stad,aantal/maand,,,,Jan/09,,1.5,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Stad,aantal/maand,,,,Feb/09,,6.2,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Stad,aantal/maand,,,,Mar/09,,3.5,
@@ -5974,7 +5974,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Pampus,aantal/maand,,,,Sep/14,,1.1,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Pampus,aantal/maand,,,,Oct/14,,2.9,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Pampus,aantal/maand,,,,Nov/14,,8.5,
-30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Pampus,aantal/maand,,,,Dec/14,,0.1,
+30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Pampus,aantal/maand,,,,Dec/14,,1.1,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Almere,aantal/maand,,,,Jan/09,,6.6,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Almere,aantal/maand,,,,Feb/09,,0.6,
 30,TOESTAND,Functioneren drainage - Geconstateerde gebreken - dummy,Almere,aantal/maand,,,,Mar/09,,6.4,
@@ -6406,7 +6406,7 @@ ID_PI,KPI,PI,Gebied,Eenheid,Ref_value_month_2,Ref_value_month_0,Ref_value_month_
 31,TOESTAND,Kwaliteit kolken - Uitgevoerde herstelacties - dummy ,Hout,aantal/maand,,,,Sep/14,,6.9,
 31,TOESTAND,Kwaliteit kolken - Uitgevoerde herstelacties - dummy ,Hout,aantal/maand,,,,Oct/14,,8.2,
 31,TOESTAND,Kwaliteit kolken - Uitgevoerde herstelacties - dummy ,Hout,aantal/maand,,,,Nov/14,,3.5,
-31,TOESTAND,Kwaliteit kolken - Uitgevoerde herstelacties - dummy ,Hout,aantal/maand,,,,Dec/14,,0.3,
+31,TOESTAND,Kwaliteit kolken - Uitgevoerde herstelacties - dummy ,Hout,aantal/maand,,,,Dec/14,,1.3,
 31,TOESTAND,Kwaliteit kolken - Uitgevoerde herstelacties - dummy ,Pampus,aantal/maand,,,,Jan/09,,8.4,
 31,TOESTAND,Kwaliteit kolken - Uitgevoerde herstelacties - dummy ,Pampus,aantal/maand,,,,Feb/09,,4.4,
 31,TOESTAND,Kwaliteit kolken - Uitgevoerde herstelacties - dummy ,Pampus,aantal/maand,,,,Mar/09,,1.3,
