@@ -50,62 +50,26 @@ var iconGebruik = require('../images/icon-gebruik.png');
 var iconPlanning = require('../images/icon-planning.png');
 var iconLizard = require('../images/icon-lizard.png');
 
+var weightSettings = require('./WeightSettings').Gebruik;
 var Map = require('./Map');
 var KPIModal = require('./KPIModal');
 var Histo = require('./Histo');
-
+var config = require('../config');
 var kaart, lineChart, histoChart;
 
-var weightSettings = [
-    {
-        'id': 1,
-        'title': 'Riolering - rioolvreemd water ',
-        'times': 3,
-        'weight': 25
-    },
-    {
-        'id': 2,
-        'title': 'Riolering - potentiële verstoppingen',
-        'times': 1,
-        'weight': 8
-    },
-    {
-        'id': 3,
-        'title': 'Lozingen - meldingen burgers ',
-        'times': 1,
-        'weight': 8
-    },
-    {
-        'id': 4,
-        'title': 'Verstoppingen - meldingen burgers    ',
-        'times': 5,
-        'weight': 42
-    },
-    {
-        'id': 5,
-        'title': 'Riolering - meldingen vanuit de zuivering ',
-        'times': 1,
-        'weight': 8
-    },
-    {
-        'id': 6,
-        'title': 'Riolering - vervuilingsgraad zuivering ',
-        'times': 1,
-        'weight': 8
-    }
-];
+
 
 var GebruikApp = React.createClass({
     getInitialState: function() {
         return {
             pis: [],
-            stadsdeel: 'Almere'
+            stadsdeel: config.cityName
         };
     },
     handleStadsdeelClick: function(stadsdeel) {
         if(this.state.stadsdeel === stadsdeel) {
-            debug('De-selecting ' + stadsdeel + ', selecting Almere');
-            this.setState({'stadsdeel': 'Almere'});
+            debug('De-selecting ' + stadsdeel + ', selecting ' + config.cityName);
+            this.setState({'stadsdeel': config.cityName});
         } else {
             debug('Selecting ' + stadsdeel);
             this.setState({'stadsdeel': stadsdeel});            
@@ -114,7 +78,7 @@ var GebruikApp = React.createClass({
     componentDidMount: function() {
         var self = this;
 
-        d3.csv("static/data/data_gebruik.csv", function (csv) {
+        d3.csv("static/data/" + config.csvFileGebruik, function (csv) {
 
             // Format the csv (parse month/year to better date etc)
             csv.map(function(d) {
@@ -134,7 +98,7 @@ var GebruikApp = React.createClass({
                 };
             });
             self.setState({'pis': pisArray});
-            self.setState({'stadsdeel': 'Almere'});
+            self.setState({'stadsdeel': config.cityName});
         });
 
         window.addEventListener('scroll', function(e){
@@ -190,8 +154,8 @@ var GebruikApp = React.createClass({
                 })
                 .entries(pigroup.values);
 
-            if(self.state.stadsdeel === 'Almere') {
-                values = filteredValues.filter(function(v) { if(v.key === 'Almere') return v; });    
+            if(self.state.stadsdeel === config.cityName) {
+                values = filteredValues.filter(function(v) { if(v.key === config.cityName) return v; });    
             } else {
                 values = filteredValues.filter(function(v) { if(v.key === self.state.stadsdeel) return v; });
             }
@@ -267,8 +231,6 @@ var InfoModal = React.createClass({
             <p>Door op een PI te klikken ziet u de trendlijn voor de ingestelde periode.</p>
             <h3>PI waarde of data waarde</h3>
             <p>Door op de het gekleurde label in de titelbalk van een grafiek te klikken of tappen wisselt de grafiek tussen PI-waarde en data-waarde.</p>
-            <h3>Referentiewaarde</h3>
-            <p>U kunt de referentiewaarde instellen voor elke Performance Indicator door op het <i className="fa fa-cog" />-symbool te klikken.</p>
           </div>
           <div className="modal-footer">
             <Button onClick={this.props.onRequestHide}>Sluiten</Button>

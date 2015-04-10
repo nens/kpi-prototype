@@ -56,6 +56,7 @@ var iconLizard = require('../images/icon-lizard.png');
 
 var Map = require('./Map');
 var Utils = require('./Utils');
+var config = require('../config');
 
 
 var KPIHisto = React.createClass({
@@ -295,7 +296,7 @@ var KPIApp = React.createClass({
     getInitialState: function() {
         return {
             pis: [],
-            stadsdeel: 'Almere'
+            stadsdeel: config.cityName
         };
     },
     handleSelection: function(selection) {
@@ -306,7 +307,7 @@ var KPIApp = React.createClass({
     },    
     componentDidMount: function() {
         var self = this;
-        d3.csv("static/data/KPI.csv", function (csv) {
+        d3.csv("static/data/" + config.csvFileKPI, function (csv) {
 
             // Format the csv (parse month/year to better date etc)
             csv.map(function(d) {
@@ -327,7 +328,7 @@ var KPIApp = React.createClass({
             });
 
             self.setState({'pis': pisArray});
-            self.setState({'stadsdeel': 'Almere'});
+            self.setState({'stadsdeel': config.cityName});
         });
     },
     componentWillMount: function() {
@@ -336,8 +337,8 @@ var KPIApp = React.createClass({
     },
     handleStadsdeelClick: function(stadsdeel) {
         if(this.state.stadsdeel === stadsdeel) {
-            debug('De-selecting ' + stadsdeel + ', selecting Almere');
-            this.setState({'stadsdeel': 'Almere'});
+            debug('De-selecting ' + stadsdeel + ', selecting ' + config.cityName);
+            this.setState({'stadsdeel': config.cityName});
         } else {
             debug('Selecting ' + stadsdeel);
             this.setState({'stadsdeel': stadsdeel});            

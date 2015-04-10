@@ -50,105 +50,27 @@ var iconGebruik = require('../images/icon-gebruik.png');
 var iconPlanning = require('../images/icon-planning.png');
 var iconLizard = require('../images/icon-lizard.png');
 
+var weightSettings = require('./WeightSettings').Toestand;
 var Map = require('./Map');
 var KPIModal = require('./KPIModal');
 var Histo = require('./Histo');
 
 var kaart, lineChart, histoChart;
+var config = require('../config');
 
 
-var weightSettings = [
-    {
-        'id': 1,
-        'title': 'Gemalen - peiloverschrijding',
-        'times': 5,
-        'weight': 12
-    },
-    {
-        'id': 2,
-        'title': 'Gemalen - extreme draaiuuroverschrijding',
-        'times': 1,
-        'weight': 2
-    },
-    {
-        'id': 3,
-        'title': 'Gemalen - storingen',
-        'times': 10,
-        'weight': 23
-    },
-    {
-        'id': 4,
-        'title': 'Gemalen - incidentele onderhoudsmomenten',
-        'times': 1,
-        'weight': 2
-    },
-    {
-        'id': 5,
-        'title': 'Leidingen - incidentele verstoppingen ',
-        'times': 5,
-        'weight': 12
-    },
-    {
-        'id': 6,
-        'title': 'Leidingen - verontreinigingsgraad',
-        'times': 1,
-        'weight': 2
-    },     
-    {
-        'id': 7,
-        'title': 'Leidingen - kwaliteit',
-        'times': 5,
-        'weight': 12
-    },
-    {
-        'id': 8,
-        'title': 'Leidingen - dode berging ',
-        'times': 1,
-        'weight': 2
-    },
-    {
-        'id': 9,
-        'title': 'Leidingen - meldingen verzakkingen',
-        'times': 10,
-        'weight': 23
-    },
-    {
-        'id': 10,
-        'title': 'Drainage - gebreken',
-        'times': 1,
-        'weight': 2
-    },
-    {
-        'id': 11,
-        'title': 'Kolken - herstelacties',
-        'times': 1,
-        'weight': 2
-    },
-    {
-        'id': 13,
-        'title': 'Kolken - incidentele reinigingen ',
-        'times': 1,
-        'weight': 2
-    },
-    {
-        'id': 14,
-        'title': 'Kolken - meldingen burgers ',
-        'times': 1,
-        'weight': 2
-    }            
-];
 
 var ToestandApp = React.createClass({
     getInitialState: function() {
         return {
             pis: [],
-            stadsdeel: 'Almere'
+            stadsdeel: config.cityName
         };
     },
     handleStadsdeelClick: function(stadsdeel) {
         if(this.state.stadsdeel === stadsdeel) {
-            debug('De-selecting ' + stadsdeel + ', selecting Almere');
-            this.setState({'stadsdeel': 'Almere'});
+            debug('De-selecting ' + stadsdeel + ', selecting ' + config.cityName);
+            this.setState({'stadsdeel': config.cityName});
         } else {
             debug('Selecting ' + stadsdeel);
             this.setState({'stadsdeel': stadsdeel});            
@@ -157,7 +79,7 @@ var ToestandApp = React.createClass({
     componentDidMount: function() {
         var self = this;
 
-        d3.csv("static/data/data_toestand.csv", function (csv) {
+        d3.csv("static/data/" + config.csvFileToestand, function (csv) {
 
             // Format the csv (parse month/year to better date etc)
             csv.map(function(d) {
@@ -177,7 +99,7 @@ var ToestandApp = React.createClass({
                 };
             });
             self.setState({'pis': pisArray});
-            self.setState({'stadsdeel': 'Almere'});
+            self.setState({'stadsdeel': config.cityName});
         });
 
         window.addEventListener('scroll', function(e){
@@ -233,8 +155,8 @@ var ToestandApp = React.createClass({
                 })
                 .entries(pigroup.values);
 
-            if(self.state.stadsdeel === 'Almere') {
-                values = filteredValues.filter(function(v) { if(v.key === 'Almere') return v; });    
+            if(self.state.stadsdeel === config.cityName) {
+                values = filteredValues.filter(function(v) { if(v.key === config.cityName) return v; });    
             } else {
                 values = filteredValues.filter(function(v) { if(v.key === self.state.stadsdeel) return v; });
             }
@@ -309,8 +231,6 @@ var InfoModal = React.createClass({
             <p>Door op een PI te klikken ziet u de trendlijn voor de ingestelde periode.</p>
             <h3>PI waarde of data waarde</h3>
             <p>Door op de het gekleurde label in de titelbalk van een grafiek te klikken of tappen wisselt de grafiek tussen PI-waarde en data-waarde.</p>
-            <h3>Referentiewaarde</h3>
-            <p>U kunt de referentiewaarde instellen voor elke Performance Indicator door op het <i className="fa fa-cog" />-symbool te klikken.</p>
           </div>
           <div className="modal-footer">
             <Button onClick={this.props.onRequestHide}>Sluiten</Button>

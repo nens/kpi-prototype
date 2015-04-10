@@ -34,12 +34,14 @@ var d3 = require('d3');
 var Utils = require('./Utils');
 var debug = require('debug')('Map.js');
 
+var config = require('../config');
+
 var width = 500, height = 600;
 var numberFormat = d3.format(".2f");
 var projection = d3.geo.mercator()
-       .center([5.3608, 52.3641]) // Almere coords in 3857 projection
+       .center([config.lat, config.lon]) // Coords in 3857 projection
        .scale(99000);
-var path = d3.geo.path().projection(projection);  
+var path = d3.geo.path().projection(projection);
 var svg;
 
 
@@ -64,7 +66,7 @@ var Map = React.createClass({
 	            .attr("height", height);
 
 	        
-	        d3.json('static/data/stadsdelen_almere.geojson', function(json) {
+	        d3.json('static/data/' + config.cityGeojsonFile, function(json) {
 	        	self.setState({
 	        		features: json.features
 	        	});
@@ -98,7 +100,7 @@ var Map = React.createClass({
 	                .attr("text-anchor","middle")
 	                .attr('font-size','10pt');                
 	        }); 
-	        d3.json('static/data/almere_4326_simple.geojson', function(json) {
+	        d3.json('static/data/' + config.neighborhoodsGeojsonFile, function(json) {
 	            json.features.map(function(feature) {
 	                svgWijken.append("path")
 	                .datum(feature.geometry)
@@ -114,14 +116,6 @@ var Map = React.createClass({
 	        }); 	           	
         }        
 
-    },
-    componentDidUpdate: function() {
-    	// console.log(self.state);
-        // d3.selectAll('svg').selectAll('.stadsdeel').style('fill','#44aaee'); // Reset all colors
-        // d3.selectAll('svg').selectAll('.stadsdeel').style('stroke','white'); // Reset all colors
-        // d3.selectAll('svg').selectAll('.' + this.props.stadsdeel).style('stroke', '#434950'); // Color propped stadsdeel
-		// d3.selectAll('svg').selectAll('.' + this.props.stadsdeel).style('paint-order', 'stroke'); // Color propped stadsdeel
-        // paint-order="stroke"
     },
     render: function() {
     	var self = this;
@@ -146,7 +140,7 @@ var Map = React.createClass({
 	    			})
 	    			.attr('fill', function(d) {
 	    				var quantizeValue = d.values[d.values.length - 1].Score || d.values[d.values.length - 1].Value;
-	    				if(self.props.stadsdeel === 'Almere') {
+	    				if(self.props.stadsdeel === config.cityName) {
 							return Utils.quantize(quantizeValue);
 	    				} else if (d.key === self.props.stadsdeel) {
 	    					return Utils.quantize(quantizeValue);
@@ -180,14 +174,14 @@ var Map = React.createClass({
 		            <div id="map" className="map" ref="map" style={{marginTop:50, position:'fixed'}}>
 		            </div>
 		            <Label style={{position:'fixed',marginTop:60,fontSize:'1.1em'}}>
-		            	Geselecteerd: {this.props.stadsdeel||'Almere'}{self.props.activeSelection ? ' / ' : ''}{formattedActiveSelection}
+		            	Geselecteerd: {this.props.stadsdeel||config.cityName}{self.props.activeSelection ? ' / ' : ''}{formattedActiveSelection}
 	            	</Label>
 		        </TabPane>
 		        <TabPane eventKey={2} tab="Wijken">
 		            <div id="map2" className="map2" ref="map2" style={{marginTop:30, position:'fixed'}}>
 		            </div>		        
 		            <Label style={{position:'fixed',marginTop:60,fontSize:'1.1em'}}>
-		            	Geselecteerd: Almere{self.props.activeSelection ? ' / ' : ''}{formattedActiveSelection}
+		            	Geselecteerd: {config.cityName}{self.props.activeSelection ? ' / ' : ''}{formattedActiveSelection}
 	            	</Label>
 	            </TabPane>
             </TabbedArea>

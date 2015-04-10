@@ -55,6 +55,7 @@ var iconGebruik = require('./images/icon-gebruik.png');
 var iconPlanning = require('./images/icon-planning.png');
 
 var Utils = require('./components/Utils');
+var config = require('./config');
 
 debug.enable('*');
 
@@ -62,6 +63,7 @@ React.initializeTouchEvents(true);
 
 window.React = React; // React DevTools won't work without this
 window.period = {'years':5};
+
 var tevredenheidValue, planrealisatieValue, toestandValue, omgevingValue, gebruikValue = 0;
 
 
@@ -124,7 +126,7 @@ var App = React.createClass({
               <Grid className="">
                   <Row className="subHead">
                     <Col xs={0} md={6}>
-                      <a href="./index.html" className="home"><h2 style={{fontFamily:'Geogroteque-Light'}}><strong>Almere</strong> KPI Dashboard</h2></a>
+                      <a href="./index.html" className="home"><h2 style={{fontFamily:'Geogroteque-Light'}}><strong>{config.dashboardName}</strong> KPI Dashboard</h2></a>
                     </Col>
                     <Col xs={6} md={6} className="period-selection">
                     	<PeriodSelection 
@@ -289,8 +291,9 @@ var PeriodSelection = React.createClass({
 
 var InfoModal = React.createClass({
   render: function() {
+    var title = config.dashboardName + ' KPI Dashboard';
     return this.transferPropsTo(
-        <Modal title="Almere KPI Dashboard" animation={true}>
+        <Modal title={title} animation={true}>
           <div className="modal-body">
             <h3>KPI</h3>
             <p>Een 'Key Performance Indicator' geeft op basis van onderliggende indicatoren inzicht in de prestaties van de waterbeheerder.</p>

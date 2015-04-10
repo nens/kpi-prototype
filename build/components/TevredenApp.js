@@ -50,89 +50,29 @@ var iconGebruik = require('../images/icon-gebruik.png');
 var iconPlanning = require('../images/icon-planning.png');
 var iconLizard = require('../images/icon-lizard.png');
 
+var weightSettings = require('./WeightSettings').Tevredenheid;
 var Map = require('./Map');
 var KPIModal = require('./KPIModal');
 var Utils = require('./Utils');
 var Histo = require('./Histo');
-
+var config = require('../config');
 
 var kaart, lineChart, histoChart;
 
-var weightSettings = [
-    {
-        'id': 1,
-        'title': 'Totaal aantal meldingen ',
-        'times': 20,
-        'weight': 36
-    },
-    {
-        'id': 2,
-        'title': 'Aantal meldingen riolering',
-        'times': 10,
-        'weight': 18
-    },
-    {
-        'id': 3,
-        'title': 'Aantal meldingen wateroverlast buitenshuis',
-        'times': 5,
-        'weight': 9
-    },
-    {
-        'id': 4,
-        'title': 'Aantal meldingen wateroverlast binnenshuis',
-        'times': 1,
-        'weight': 2
-    },
-    {
-        'id': 5,
-        'title': 'Aantal Meldingen Oppervlaktewater',
-        'times': 5,
-        'weight': 9
-    },
-    {
-        'id': 6,
-        'title': 'Afhandeltijd meldingen',
-        'times': 1,
-        'weight': 2
-    },     
-    {
-        'id': 7,
-        'title': 'Aantal twitterberichten',
-        'times': 5,
-        'weight': 9
-    },
-    {
-        'id': 8,
-        'title': 'Aantal facebookberichten',
-        'times': 2,
-        'weight': 4
-    },
-    {
-        'id': 9,
-        'title': 'Aantal schadeclaims',
-        'times': 1,
-        'weight': 2
-    },
-    {
-        'id': 10,
-        'title': 'Uitkomsten enquetes',
-        'times': 1,
-        'weight': 2
-    }
-];
+
 
 var TevredenApp = React.createClass({
 
     getInitialState: function() {
         return {
             pis: [],
-            stadsdeel: 'Almere'
+            stadsdeel: config.cityName
         };
     },
     handleStadsdeelClick: function(stadsdeel) {
         if(this.state.stadsdeel === stadsdeel) {
-            debug('De-selecting ' + stadsdeel + ', selecting Almere');
-            this.setState({'stadsdeel': 'Almere'});
+            debug('De-selecting ' + stadsdeel + ', selecting ' + config.cityName);
+            this.setState({'stadsdeel': config.cityName});
         } else {
             debug('Selecting ' + stadsdeel);
             this.setState({'stadsdeel': stadsdeel});            
@@ -141,7 +81,7 @@ var TevredenApp = React.createClass({
     componentDidMount: function() {
         var self = this;
 
-        d3.csv("static/data/data_tevredenheid.csv", function (csv) {
+        d3.csv("static/data/" + config.csvFileTevredenheid, function (csv) {
 
             // Format the csv (parse month/year to better date etc)
             csv.map(function(d) {
@@ -161,7 +101,7 @@ var TevredenApp = React.createClass({
                 };
             });
             self.setState({'pis': pisArray});
-            self.setState({'stadsdeel': 'Almere'});
+            self.setState({'stadsdeel': config.cityName});
         });
 
         window.addEventListener('scroll', function(e){
@@ -217,8 +157,8 @@ var TevredenApp = React.createClass({
                 })
                 .entries(pigroup.values);
 
-            if(self.state.stadsdeel === 'Almere') {
-                values = filteredValues.filter(function(v) { if(v.key === 'Almere') return v; });    
+            if(self.state.stadsdeel === config.cityName) {
+                values = filteredValues.filter(function(v) { if(v.key === config.cityName) return v; });    
             } else {
                 values = filteredValues.filter(function(v) { if(v.key === self.state.stadsdeel) return v; });
             }
@@ -294,8 +234,6 @@ var InfoModal = React.createClass({
             <p>Door op een PI te klikken ziet u de trendlijn voor de ingestelde periode.</p>
             <h3>PI waarde of data waarde</h3>
             <p>Door op de het gekleurde label in de titelbalk van een grafiek te klikken of tappen wisselt de grafiek tussen PI-waarde en data-waarde.</p>
-            <h3>Referentiewaarde</h3>
-            <p>U kunt de referentiewaarde instellen voor elke Performance Indicator door op het <i className="fa fa-cog" />-symbool te klikken.</p>
           </div>
           <div className="modal-footer">
             <Button onClick={this.props.onRequestHide}>Sluiten</Button>
