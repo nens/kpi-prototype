@@ -192,13 +192,17 @@ var Histo = React.createClass({
           .attr("dy", ".71em")
           .style("text-anchor", "end");
 
-        if(chartType === 'pi') {
-            var withoutNull = _.without(values, 'NULL');
-            svg.append('circle')
-               .attr('class', 'sparkcircle')
-               .attr('cx', x(parseDate(withoutNull[withoutNull.length - 1].Date)))
-               .attr('cy', y(Number(withoutNull[withoutNull.length - 1].Score)))
-               .attr('r', 5);
+        try {
+          if(chartType === 'pi') {
+              var withoutNull = _.without(values, 'NULL');
+              svg.append('circle')
+                 .attr('class', 'sparkcircle')
+                 .attr('cx', x(parseDate(withoutNull[withoutNull.length - 1].Date)))
+                 .attr('cy', y(Number(withoutNull[withoutNull.length - 1].Score)))
+                 .attr('r', 5);
+          }
+        } catch(error) {
+          console.log(error);
         }
 
         var path = svg.append("path")
